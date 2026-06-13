@@ -1,4 +1,4 @@
-# My Personal PDF Chatbot
+# My PDF Chatbot
 
 ## Overview
 This is a custom PDF Chatbot that allows you to interact with your PDF documents using natural language. It uses Retrieval Augmented Generation (RAG) to provide accurate answers based on the content of your uploaded files.
